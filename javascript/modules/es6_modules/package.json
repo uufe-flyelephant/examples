@@ -1,0 +1,13 @@
+{
+  "name": "es6_modules",
+  "version": "1.0.0",
+  "description": "npm i babe-node main.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --experimental-modules main.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
