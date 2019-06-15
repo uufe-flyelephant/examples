@@ -1,2 +1,10 @@
+
+```bash
 nvm use 12
-node --experimental-modules main.js
+
+// npm run test[directory-serial]
+npm run test00
+npm run test01
+//...
+```
+

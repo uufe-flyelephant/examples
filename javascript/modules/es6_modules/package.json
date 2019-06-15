@@ -4,7 +4,8 @@
   "description": "npm i babe-node main.js",
   "main": "main.js",
   "scripts": {
-    "start": "node --experimental-modules main.js"
+    "test00": "node --experimental-modules ./00-module-reference/main.js",
+    "test01": "node --experimental-modules ./01-static-module-structure/index.js"
   },
   "type": "module",
   "keywords": [],
