@@ -1,6 +1,6 @@
 {
   "publish": {
-    "ignoreChanges": [ "test/*" ]
+    "ignoreChanges": [ "test/*", "test*/*" ]
   },
   "packages": [
     "packages/*"
