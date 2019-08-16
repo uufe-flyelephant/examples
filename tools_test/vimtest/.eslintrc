@@ -1,0 +1,14 @@
+{   
+	"plugins": ["prettier"],
+	"extends": ["prettier"],
+	"rules": {
+		"prettier/prettier": "error",
+    indent: ["error", 2, {SwitchCase: 1}],
+    "linebreak-style": ["error", "unix"],
+    quotes: ["error", "single"],
+    semi: [2, "always"],
+    "no-console": 1,
+    "react/prop-types": [0]
+  },
+
+}
